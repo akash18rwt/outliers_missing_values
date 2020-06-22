@@ -14,9 +14,8 @@ Handle Outliers and Missing Values
 
 * Finding Outliers
 
-
-  a. BoxPlot
-  b. Scatter Plot
-  c. z-score
-  d. IQR Score
-  e. Outlier Removal Clustering: Outlier Removal Clustering (ORC) is a improved version of KMean with outlier removal in each iteration. As we all know that KMean is more sensitive with outliers, and might result into local optimal centroids. For data which has lot of outliers still works well with KMean if we add outlier removal mechanism in each iteration of the KMean clustering. This will ensure the centroid calculation won't be skewed by the points far away from the cluster centroid.
+  1. BoxPlot
+  2. Scatter Plot
+  3. z-score
+  4. IQR Score
+  5. Outlier Removal Clustering: Outlier Removal Clustering (ORC) is a improved version of KMean with outlier removal in each iteration. As we all know that KMean is more sensitive with outliers, and might result into local optimal centroids. For data which has lot of outliers still works well with KMean if we add outlier removal mechanism in each iteration of the KMean clustering. This will ensure the centroid calculation won't be skewed by the points far away from the cluster centroid.

@@ -13,6 +13,8 @@ Handle Outliers and Missing Values
 
 
 * Finding Outliers
+
+
   a. BoxPlot
   b. Scatter Plot
   c. z-score
